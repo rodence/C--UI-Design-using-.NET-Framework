@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\ite314_proj\bin\Debug\ite314_proj.exe.config
+C:\Users\Student\source\repos\ite314_proj\bin\Debug\ite314_proj.exe
+C:\Users\Student\source\repos\ite314_proj\bin\Debug\ite314_proj.pdb
+C:\Users\Student\source\repos\ite314_proj\obj\Debug\ite314_proj.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ite314_proj\obj\Debug\ite314_proj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\ite314_proj\obj\Debug\ite314_proj.Form1.resources
+C:\Users\Student\source\repos\ite314_proj\obj\Debug\ite314_proj.Properties.Resources.resources
+C:\Users\Student\source\repos\ite314_proj\obj\Debug\ite314_proj.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\ite314_proj\obj\Debug\ite314_proj.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ite314_proj\obj\Debug\ite314_proj.exe
+C:\Users\Student\source\repos\ite314_proj\obj\Debug\ite314_proj.pdb
